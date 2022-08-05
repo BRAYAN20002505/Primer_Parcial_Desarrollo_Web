@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form-register{
+    width: 400px;
+    background: #ffffff42;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family:'Verdara';
+    font-size: 20px;
+    color:black;
+    box-shadow: 7px 13 px 37px #000;
+}
+.form-register h4{
+    font-size: 22px;
+    margin-bottom: 20;
+
+}
+.Controladores {
+    width: 100%;
+    
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family:'Verdara';
+    font-size: 20px;
+}
+img{
+    image-orientation:unset;
+    width: 200px;
+    height: 200px;
+}
+.form-register p{
+    height: 40px;
+    color:black;
+    text-align: center;
+    font-size: 18px;
+    line-height: 20px;
+}
+.form-register a{
+    color: rgb(0, 36, 241);
+    text-decoration: none;
+}
+
+.form-register a:hover{
+    color: rgb(12, 12, 12);
+    text-decoration: none;
+}
+.form-register .Boton{
+    width:100%;
+    border:none;
+    padding:12px;
+    background: #1f53c5;
+    color:rgb(16, 15, 15);
+    margin: 16px 0;
+    font-family:'Verdara';
+    font-size: 18px;
+}
+h1{
+    text-align: center;
+    background-color: rgba(255, 254, 254, 0);
+    color: rgb(94, 107, 219);
+    padding: 10px;
+    font-family:'Verdara';
+}
+h4{
+    text-align: center;
+    background-color: rgba(255, 254, 254, 0);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-family:'Verdara';
+    font-size: 22px;
+}
+h2{
+    text-align: center;
+    background-color: rgba(255, 254, 254, 0);
+    color: rgb(94, 107, 219);
+    padding: 10px;
+    font-family:'Verdara';
+}
+img{
+    image-orientation:from-image(vetica,sans-serif);
+    image-orientation:unset;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(255, 254, 254, 0);
+}
+.textos{
+
+    color:rgb(1, 1, 1); 
+    padding:20px;
+    font-family: 'Verdara';
+    font-size: 18px;
+}
+.informacion{
+
+    color:rgb(10, 10, 10); 
+    padding:20px;
+    font-family: 'Verdara';
+    font-size: 18px;
+}
+.informacion p1{
+
+    color:rgb(0, 36, 241); 
+    font-family: 'Verdara';
+    font-size: 20px;
+}
